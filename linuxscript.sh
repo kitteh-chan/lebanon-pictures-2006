@@ -1,8 +1,8 @@
 << '---'
 	I wrote this code for a specific purpose, though sometimes things don't work as planned.
 	Victory is often much closer than you think it is. The only way to close that small gap
-	is working harder than your opponent with the heart of a champion. I hope this code can
-	bring you closer to your goals, if you're reading this then I want you to win.
+	is working harder than your opponent and doing whatever it takes. I hope this code can
+	bring you closer to your goals, because if you're reading this then I want you to win.
 	
 	Oh and also sometimes the services will break in competition, if that happens just undo some 
 	of the changes at the end of the files and you'll be fine. Good luck!
