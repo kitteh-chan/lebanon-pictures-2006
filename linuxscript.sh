@@ -1,4 +1,4 @@
-<< 'MULTILINE-COMMENT'
+<< '---'
 	I wrote this code for a specific purpose, though sometimes things don't work as planned.
 	Victory is often much closer than you think it is. The only way to close that small gap
 	is working harder than your opponent with the heart of a champion. I hope this code can
@@ -8,7 +8,7 @@
 	of the changes at the end of the files and you'll be fine. Good luck!
 	
 	- Ardy aka Oats, February 8th 2020
-MULTILINE-COMMENT
+---
 
 
 #!/bin/bash
